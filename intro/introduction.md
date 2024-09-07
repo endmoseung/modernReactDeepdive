@@ -22,6 +22,7 @@
 그래서 이를 해결하기 위해 React가 개발됐고 html,css,js로의 수직적 관심사 분리는 컴포넌트별로 기능을 다루는 수평적 관심사 분리로 변경됐다.
 <br>
 당시 사용되던 backbone.js와 리액트의 코드 비교
+
 ```jsx
 // Backbone Model
 var MessageModel = Backbone.Model.extend({
